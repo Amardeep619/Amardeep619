@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amardeep619
 - 👀 I’m interested in Coding, Developer..
-- 🌱 I’m currently learning Conding, Web Development.
+- 🌱 I’m currently learning Coding, Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 email : Amardeepsaha9860@gmail.com
 
